@@ -9,3 +9,6 @@
 <a href="https://www.linkedin.com/in/marzia-yarzadah-6b549833b/" rel="nofollow">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="max-width: 100%;">
 </a>
+<a href="https://www.linkedin.com/in/marzia-yarzadah-6b549833b/" rel="nofollow">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="max-width: 100%;">
+</a>
